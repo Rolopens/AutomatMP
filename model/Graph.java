@@ -82,10 +82,5 @@ public class Graph {
         
     }
     
-    //function to be used when user inputs 2 characters: human, human, lion, cow, grain
-    public void moveCurrentVia2Inputs(String input1, String input2){
-        
-    }
-    
 }
 
