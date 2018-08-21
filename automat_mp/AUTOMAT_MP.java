@@ -19,7 +19,6 @@ public class AUTOMAT_MP {
      */
     public static void main(String[] args) {
         MainView view = new MainView();
-        view.initialize();
         // TODO code application logic here
 //        Node firstNode = new Node(0, true, false, null);
 //        Node secondNode = new Node(1, false, false, null);
